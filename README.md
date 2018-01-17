@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/Player/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/Player/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/Player.svg)](https://github.com/Grandbrain/Player/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/Player.svg)](https://github.com/Grandbrain/Player/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/Player.svg)](https://github.com/Grandbrain/Player/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/Player.svg)](https://github.com/Grandbrain/Player/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/Player.svg)](https://github.com/Grandbrain/Player/blob/master/LICENSE)
 
 # Welcome to Player project!
 
